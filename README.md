@@ -12,7 +12,7 @@ Code is edited from https://github.com/sachinruk/Video_bbox
   - OpenCV 3.4.3+
   - Imutils 0.5.4+
   
-## Docker container
+## Docker container :
    *you can check docker commands guide for Linux and Windows at https://hub.docker.com/r/mintjitlada/sodt* 
      
     docker pull mintjitlada/sodt:label
